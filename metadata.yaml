@@ -1,0 +1,33 @@
+_repo: Descripcion---historia-del-castillo-de-la-aljafer-asito-extramuros-de-la-ciudad-de-Zaragoza_26028
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nougués Secall, Mariano
+    aliases:
+    - Secall, Mariano Nougués
+    - Nougues Secall, Mariano
+    birthdate: 1808
+    deathdate: 1872
+    gutenberg_agent_id: '31745'
+    url: http://www.gutenberg.org/2009/agents/31745
+description: ''
+gutenberg_issued: '2008-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26028'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture, Islamic -- Spain -- Zaragoza'
+- !lcsh 'Palaces -- Spain -- Zaragoza'
+- !lcsh 'Aljafería (Zaragoza, Spain)'
+- !lcc 'NA'
+title: 'Descripcion é historia del castillo de la aljafería
+
+  sito  extramuros de la ciudad de Zaragoza'
+url: http://www.gutenberg.org/ebooks/26028
