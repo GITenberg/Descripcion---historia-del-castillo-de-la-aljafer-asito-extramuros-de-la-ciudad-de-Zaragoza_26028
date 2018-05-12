@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '31745'
     url: http://www.gutenberg.org/2009/agents/31745
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26028#Descripcion---historia-del-castillo-de-la-aljafer-asito-extramuros-de-la-ciudad-de-Zaragoza
 gutenberg_issued: '2008-07-11'
 gutenberg_type: Text
 identifiers:
